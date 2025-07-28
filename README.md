@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fengshanshan
-- 🌱 I’m currently working with [Next.ID](https://next.id/)
-- 🌍 work remotely | digital nomad
+- 💻 blockchain / backend
+- 🌍 work remotely
 
 <!---
 fengshanshan/fengshanshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
